@@ -138,7 +138,7 @@ Data modeling plays a vital role and is considered as the basement of report. Al
 Poor data modeling affects the over all performance of the report.<br>
 Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog<br>
 In this project, we have followed Snowfall data modeling method.<br>
-<br><br><br>
+![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Data_model.png)
 
 ## Dashboard designing<br>
 * Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required<br><br>

@@ -7,12 +7,12 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 Live Report Link<br><br>
 
 ## Tech stacks<br>
-SQL<br>
-PowerBi Desktop<br>
-Excel<br>
-DAX language<br>
-DAX studio (for optimizing the report)<br>
-Project charter file<br>
+* SQL<br>
+* PowerBi Desktop<br>
+* Excel<br>
+* DAX language<br>
+* DAX studio (for optimizing the report)<br>
+* Project charter file<br>
 ## PowerBI techniques Learnt<br>
 What are all the questions should be asked before staring the project<br>
 Creating calculated columns<br>

@@ -33,46 +33,46 @@ Live Report Link<br><br>
 * Collaboration, workspace, access permissions in PowerBi services<br>
 <br>
 ## GitHub<br>
-Uploading Large size files using GitHub LFS<br>
-Tracking the particular type of file extensions for LFS<br>
+* Uploading Large size files using GitHub LFS<br>
+* Tracking the particular type of file extensions for LFS<br>
 ## Business related terms<br>
-Gross price<br>
-Pre-invoice deductions<br>
-Post-Invoice deductions<br>
-Net Invoice sale<br>
-Gross Margin<br>
-Net sales<br>
-Net profit<br>
-COGC - cost of goods sold<br>
-YTD - Year to Date<br>
-YTG - Year to Go<br>
-Direct<br>
-Retailer<br>
-Distributors<br>
-Consumer<br>
+* Gross price<br>
+* Pre-invoice deductions<br>
+* Post-Invoice deductions<br>
+* Net Invoice sale<br>
+* Gross Margin<br>
+* Net sales<br>
+* Net profit<br>
+* COGC - cost of goods sold<br>
+* YTD - Year to Date<br>
+* YTG - Year to Go<br>
+* Direct<br>
+* Retailer<br>
+* Distributors<br>
+* Consumer<br>
 ## Company’s back ground<br>
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 <br><br>
-Retailers<br>
-Direct<br>
-Distributors<br>
+* Retailers<br>
+* Direct<br>
+* Distributors<br>
 Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 <br><br>
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 <br><br>
 ## Questions to ask before starting with dashboard<br>
-What is the objective of building this PowerBi dashboard?<br>
-In what terms the success of this project will be measured?<br>
-What will be time dead-line of the project?<br>
-do the stakeholders expecting pre-view before the actual release?<br>
-What are all the hopes stakeholders have out of this project?<br>
-what are all fears the stakeholder have in terms of building this dashboard?<br>
-Who are all will be using this dashboard and for what purpose?<br>
-what are all expectation the stakeholders have, by the completion of this project?<br>
-What can go wrong while building this project?<br>
-what are all the resources/ data needed to build this dashboard?<br>
-is there any inputs from stakeholders in terms of design and views of the dashboard?<br>
-After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
+* What is the objective of building this PowerBi dashboard?<br>
+* In what terms the success of this project will be measured?<br>
+* What will be time dead-line of the project?<br>
+* do the stakeholders expecting pre-view before the actual release?<br>
+* What are all the hopes stakeholders have out of this project?<br>
+* what are all fears the stakeholder have in terms of building this dashboard?<br>
+* Who are all will be using this dashboard and for what purpose?<br>
+* what are all expectation the stakeholders have, by the completion of this project?<br>
+* What can go wrong while building this project?<br>
+* what are all the resources/ data needed to build this dashboard?<br>
+* is there any inputs from stakeholders in terms of design and views of the dashboard?<br>
+* After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 <br><br>
 ## Dataset Understanding.<br>
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.

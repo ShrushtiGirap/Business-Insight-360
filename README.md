@@ -14,23 +14,23 @@ Live Report Link<br><br>
 * DAX studio (for optimizing the report)<br>
 * Project charter file<br>
 ## PowerBI techniques Learnt<br>
-What are all the questions should be asked before staring the project<br>
-Creating calculated columns<br>
-creating measure using DAX language<br>
-Data modeling<br>
-Using Bookmarks to switch between two visuals<br>
-Page navigation with buttons<br>
-Using divide function to prevent zero division errors<br>
-creating date table using m language<br>
-Dynamic titles based on the applied filters<br>
-Using KPI indicators<br>
-Conditional formatting the values in visuals using icons or background color<br>
-Data validation techniques<br>
-PowerBi services<br>
-Publishing reports to PowerBi services<br>
-Setting up personal gateway to set up the auto refresh of data<br>
-PowerBi App creation<br>
-Collaboration, workspace, access permissions in PowerBi services<br>
+* What are all the questions should be asked before staring the project<br>
+* Creating calculated columns<br>
+* creating measure using DAX language<br>
+* Data modeling<br>
+* Using Bookmarks to switch between two visuals<br>
+* Page navigation with buttons<br>
+* Using divide function to prevent zero division errors<br>
+* creating date table using m language<br>
+* Dynamic titles based on the applied filters<br>
+* Using KPI indicators<br>
+* Conditional formatting the values in visuals using icons or background color<br>
+* Data validation techniques<br>
+* PowerBi services<br>
+* Publishing reports to PowerBi services<br>
+* Setting up personal gateway to set up the auto refresh of data<br>
+* PowerBi App creation<br>
+* Collaboration, workspace, access permissions in PowerBi services<br>
 <br>
 ## GitHub<br>
 Uploading Large size files using GitHub LFS<br>

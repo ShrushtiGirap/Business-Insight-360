@@ -155,7 +155,7 @@ In Home view, all the views button will be available. User will land on specific
 * Products<br>
 * Support<br>
 ## Overall Report<br>
-![alt img]([Overall Report.gif](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Overall.gif))
+<src=(https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Overall.gif)>
 
 
 ## Info Page<br>

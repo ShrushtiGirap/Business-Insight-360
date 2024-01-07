@@ -71,8 +71,7 @@ Project kick off session, where you should get clear of for what and why this pr
 * What can go wrong while building this project?<br>
 * what are all the resources/ data needed to build this dashboard?<br>
 * is there any inputs from stakeholders in terms of design and views of the dashboard?<br>
-* After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
-<br><br>
+* After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.<br><br>
 ## Dataset Understanding.<br>
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 <br><br>
@@ -80,58 +79,58 @@ Dimension table : It will have the static data like details of customer and prod
 <br><br>
 Fact table : It will have the data about the transactions
 <br><br>
-gdb041:<br>
-dim_customer<br>
-27 distinct markets (ex India, USA, spain)<br>
-75 distinct customers thorough out the market<br>
-2 types of platforms<br>
-Brick & Motors - Physical/offline store<br>
-E-commerce - Online Store (Amazon, flipkart)<br>
-Three channels<br>
-Retailer<br>
-Direct<br>
-Distributors<br>
-dim_market<br>
-27 distinct markets (ex India, USA, spain)<br>
-7 sub-zones<br>
-4 regions<br>
-APAC<br>
-EU<br>
-nan<br>
-LATAM<br>
-dim_product<br>
-Divisions<br>
-P & A<br>
-Peripherals<br>
-Accessories<br>
-PC<br>
-Notebook<br>
-Desktop<br>
-N & S<br>
-Networking<br>
-Storage<br>
-There are 14 different categories, Like Internal HDD, keyboard<br>
-There are different variants available for the same product<br>
-fact_forecast_monthly<br>
-This table is used to forecast the customer’s need in advance, which can help in<br>
-Higher customer satisfaction<br>
-Reduced cost in warehouses for storage purpose<br>
-The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.<br>
-All the date of the month will be replaced by the start date of the month<br>
-It will have all the column names and in the end it will have the forecast quantity need of the customer<br>
-fact_sales_monthly<br>
-This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.<br>
-gdb056<br>
-freight_cost<br>
-This table has details of travel cost and other cost for each market with fiscal year<br>
-gross_price<br>
-Has the details of gross prices with product code<br>
-manufacturing_cost<br>
-Has the details of manufacturing cost with product code with year<br>
-Pre_invoice_dedutions<br>
-Has the details of pre invoice deductions percentage for each cutomer with year<br>
-Post_invoice_deductions<br>
-Post invoice deductions and other deductions details<br>
+* gdb041:<br>
+  * dim_customer<br>
+    * 27 distinct markets (ex India, USA, spain)<br>
+    * 75 distinct customers thorough out the market<br>
+    * 2 types of platforms<br>
+      * Brick & Motors - Physical/offline store<br>
+      * E-commerce - Online Store (Amazon, flipkart)<br>
+    * Three channels<br>
+      * Retailer<br>
+      * Direct<br>
+      * Distributors<br>
+* dim_market<br>
+  * 27 distinct markets (ex India, USA, spain)<br>
+  * 7 sub-zones<br>
+  * 4 regions<br>
+    * APAC<br>
+    * EU<br>
+    * nan<br>
+    * LATAM<br>
+* dim_product<br>
+  * Divisions<br>
+    * P & A<br>
+      * Peripherals<br>
+      * Accessories<br>
+    * PC<br>
+      * Notebook<br>
+      * Desktop<br>
+    * N & S<br>
+      * Networking<br>
+      * Storage<br>
+  * There are 14 different categories, Like Internal HDD, keyboard<br>
+  * There are different variants available for the same product<br>
+* fact_forecast_monthly<br>
+  * This table is used to forecast the customer’s need in advance, which can help in<br>
+    * Higher customer satisfaction<br>
+    * Reduced cost in warehouses for storage purpose<br>
+  * The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.<br>
+  * All the date of the month will be replaced by the start date of the month<br>
+  * It will have all the column names and in the end it will have the forecast quantity need of the customer<br>
+* fact_sales_monthly<br>
+  * This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.<br>
+* gdb056<br>
+  * freight_cost<br>
+    * This table has details of travel cost and other cost for each market with fiscal year<br>
+  * gross_price<br>
+    * Has the details of gross prices with product code<br>
+  * manufacturing_cost<br>
+    * Has the details of manufacturing cost with product code with year<br>
+  * Pre_invoice_dedutions<br>
+    * Has the details of pre invoice deductions percentage for each cutomer with year<br>
+  * Post_invoice_deductions<br>
+    * Post invoice deductions and other deductions details<br>
 ## Importing data into PowerBi<br>
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential<br>
 ## Data Model<br>
@@ -142,19 +141,19 @@ In this project, we have followed Snowfall data modeling method.<br>
 <br><br><br>
 
 ## Dashboard designing<br>
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required<br><br>
+* Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required<br><br>
 
 ## Home view<br>
 In Home view, all the views button will be available. User will land on specific view page by clicking the button<br>
 <br>
-Info<br>
-Finance View<br>
-Sales View<br>
-Marketing View<br>
-Supply chain View<br>
-Executive View<br>
-Products<br>
-Support<br>
+* Info<br>
+* Finance View<br>
+* Sales View<br>
+* Marketing View<br>
+* Supply chain View<br>
+* Executive View<br>
+* Products<br>
+* Support<br>
 ## Overall Report<br>
 Overall Report.gif
 

@@ -1,19 +1,19 @@
-## Business Insights 360<br>
-### Project Overview<br>
+# Business Insights 360<br>
+## Project Overview<br>
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 <br><br>
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is here<br><br>
 
 Live Report Link<br><br>
 
-Tech stacks<br>
+## Tech stacks<br>
 SQL<br>
 PowerBi Desktop<br>
 Excel<br>
 DAX language<br>
 DAX studio (for optimizing the report)<br>
 Project charter file<br>
-PowerBI techniques Learnt<br>
+## PowerBI techniques Learnt<br>
 What are all the questions should be asked before staring the project<br>
 Creating calculated columns<br>
 creating measure using DAX language<br>
@@ -32,10 +32,10 @@ Setting up personal gateway to set up the auto refresh of data<br>
 PowerBi App creation<br>
 Collaboration, workspace, access permissions in PowerBi services<br>
 <br>
-GitHub<br>
+## GitHub<br>
 Uploading Large size files using GitHub LFS<br>
 Tracking the particular type of file extensions for LFS<br>
-Business related terms<br>
+## Business related terms<br>
 Gross price<br>
 Pre-invoice deductions<br>
 Post-Invoice deductions<br>
@@ -50,7 +50,7 @@ Direct<br>
 Retailer<br>
 Distributors<br>
 Consumer<br>
-Company’s back ground<br>
+## Company’s back ground<br>
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 <br><br>
 Retailers<br>
@@ -60,7 +60,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 <br><br>
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 <br><br>
-Questions to ask before starting with dashboard<br>
+## Questions to ask before starting with dashboard<br>
 What is the objective of building this PowerBi dashboard?<br>
 In what terms the success of this project will be measured?<br>
 What will be time dead-line of the project?<br>
@@ -74,7 +74,7 @@ what are all the resources/ data needed to build this dashboard?<br>
 is there any inputs from stakeholders in terms of design and views of the dashboard?<br>
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 <br><br>
-Dataset Understanding.<br>
+## Dataset Understanding.<br>
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 <br><br>
 Dimension table : It will have the static data like details of customer and products
@@ -133,19 +133,19 @@ Pre_invoice_dedutions<br>
 Has the details of pre invoice deductions percentage for each cutomer with year<br>
 Post_invoice_deductions<br>
 Post invoice deductions and other deductions details<br>
-Importing data into PowerBi<br>
+## Importing data into PowerBi<br>
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential<br>
-Data Model<br>
+## Data Model<br>
 Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.<br>
 Poor data modeling affects the over all performance of the report.<br>
 Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog<br>
 In this project, we have followed Snowfall data modeling method.<br>
 <br><br><br>
 
-Dashboard designing<br>
+## Dashboard designing<br>
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required<br><br>
 
-Home view<br>
+## Home view<br>
 In Home view, all the views button will be available. User will land on specific view page by clicking the button<br>
 <br>
 Info<br>
@@ -156,35 +156,35 @@ Supply chain View<br>
 Executive View<br>
 Products<br>
 Support<br>
-Overall Report<br>
+## Overall Report<br>
 Overall Report.gif
 
 
-Info Page<br>
+## Info Page<br>
 Info.gif
 
 
-Finance View<br>
+## Finance View<br>
 Finace.gif
 
 
-Sales View<br>
+## Sales View<br>
 Sales.gif
 
 
-Marketing View<br>
+## Marketing View<br>
 Marketing.gif
 
 
-Supply chain View<br>
+## Supply chain View<br>
 Supply chain.gif
 
 
-Executive View<br>
+## Executive View<br>
 Executive.gif
 
 
-Products<br>
+## Products<br>
 Products
 
 

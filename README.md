@@ -174,8 +174,8 @@ In Home view, all the views button will be available. User will land on specific
 ![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Marketing.gif)
 
 
-## Supply chain View<br>
-![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Supply chain.gif)
+## Supply chain View<br>[
+![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/supply%20chain.gif)
 
 
 ## Executive View<br>
@@ -183,6 +183,6 @@ In Home view, all the views button will be available. User will land on specific
 
 
 ## Products<br>
-Products
+![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Products%20View.gif)
 
 

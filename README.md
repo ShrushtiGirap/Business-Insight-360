@@ -159,27 +159,27 @@ In Home view, all the views button will be available. User will land on specific
 
 
 ## Info Page<br>
-Info.gif
+![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Info.gif)
 
 
 ## Finance View<br>
-Finace.gif
+![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Finace.gif)
 
 
 ## Sales View<br>
-Sales.gif
+![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Sales.gif)
 
 
 ## Marketing View<br>
-Marketing.gif
+![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Marketing.gif)
 
 
 ## Supply chain View<br>
-Supply chain.gif
+![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Supply chain.gif)
 
 
 ## Executive View<br>
-Executive.gif
+![](https://github.com/ShrushtiGirap/Business-Insight-360/blob/main/Resources/Executive.gif)
 
 
 ## Products<br>

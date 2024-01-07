@@ -30,8 +30,7 @@ Live Report Link<br><br>
 * Publishing reports to PowerBi services<br>
 * Setting up personal gateway to set up the auto refresh of data<br>
 * PowerBi App creation<br>
-* Collaboration, workspace, access permissions in PowerBi services<br>
-<br>
+* Collaboration, workspace, access permissions in PowerBi services<br><br>
 ## GitHub<br>
 * Uploading Large size files using GitHub LFS<br>
 * Tracking the particular type of file extensions for LFS<br>

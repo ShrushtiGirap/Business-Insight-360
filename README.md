@@ -155,7 +155,7 @@ In Home view, all the views button will be available. User will land on specific
 * Products<br>
 * Support<br>
 ## Overall Report<br>
-Overall Report.gif
+![alt img](Overall Report.gif)
 
 
 ## Info Page<br>
